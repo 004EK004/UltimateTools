@@ -8,3 +8,5 @@ Tool 2: API: Together.AI  https://api.together.ai/playground/v2/chat/deepseek-ai
 Tool 3: Gitlab: https://gitlab.com/projects/new#create_from_template
 
 Tool 4: Figma: https://www.figma.com/
+
+Tool 5: DeepSeek: https://chat.deepseek.com/
