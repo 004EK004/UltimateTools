@@ -6,3 +6,5 @@ Tool 1: Search Engine: GreyNoise https://www.greynoise.io/
 Tool 2: API: Together.AI  https://api.together.ai/playground/v2/chat/deepseek-ai/DeepSeek-V3
 
 Tool 3: Gitlab: https://gitlab.com/projects/new#create_from_template
+
+Tool 4: Figma: https://www.figma.com/
