@@ -14,3 +14,4 @@ Tool 5: DeepSeek: https://chat.deepseek.com/
 Tool 6: Kaggle: https://www.kaggle.com/c/dogs-vs-cats/data
 
 Tool 7: https://console.groq.com/home
+Tool 8: https://uiverse.io/buttons?t=css
