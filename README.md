@@ -16,6 +16,7 @@ Tool 6: Kaggle: https://www.kaggle.com/c/dogs-vs-cats/data
 Tool 7: https://console.groq.com/home
 Tool 8: https://uiverse.io/buttons?t=css
 Tool 9: Osint Tools Directory: https://osintframework.com/
+Tool 10: Tiny Eye: https://tineye.com/
 
 https://aistudio.google.com/app/prompts/new_chat?utm_source=gfd&utm_medium=referral&utm_campaign=home_garden&utm_content=
 
