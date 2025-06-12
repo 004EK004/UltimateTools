@@ -15,6 +15,7 @@ Tool 6: Kaggle: https://www.kaggle.com/c/dogs-vs-cats/data
 
 Tool 7: https://console.groq.com/home
 Tool 8: https://uiverse.io/buttons?t=css
+Tool 9: Osint Tools Directory: https://osintframework.com/
 
 https://aistudio.google.com/app/prompts/new_chat?utm_source=gfd&utm_medium=referral&utm_campaign=home_garden&utm_content=
 
@@ -33,4 +34,5 @@ https://aistudio.google.com/app/prompts/new_chat?utm_source=gfd&utm_medium=refer
 11. https://www.kaggle.com/
 
     ___Certificate And Training Websites---
-    1. https://elearning.securityblue.team/home 
+    1. https://elearning.securityblue.team/home
+    2. 
