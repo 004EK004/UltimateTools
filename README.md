@@ -31,3 +31,6 @@ https://aistudio.google.com/app/prompts/new_chat?utm_source=gfd&utm_medium=refer
 9. https://app.unv.org/
 10. https://www.techsoup.org/?srsltid=AfmBOooOpjq0xxnbdqfaI0UutyZdtSpAE7io5h8TWiQCO36SfufUleLt
 11. https://www.kaggle.com/
+
+    ___Certificate And Training Websites---
+    1. https://elearning.securityblue.team/home 
