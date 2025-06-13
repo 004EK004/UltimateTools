@@ -36,4 +36,4 @@ https://aistudio.google.com/app/prompts/new_chat?utm_source=gfd&utm_medium=refer
 
     ___Certificate And Training Websites---
     1. https://elearning.securityblue.team/home
-    2. 
+    2. app.cybrary.it
