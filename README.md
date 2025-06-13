@@ -39,3 +39,4 @@ https://aistudio.google.com/app/prompts/new_chat?utm_source=gfd&utm_medium=refer
     2. app.cybrary.it
     3. https://learn.paloaltonetworks.com/learn/learning-plans/338/palo-alto-networks-certified-cybersecurity-apprentice/courses/2268/cloud-security-fundamentals
     4. IBM SkillsBuild
+    5. https://open.hpi.de/courses/cleanit2021/certificates
