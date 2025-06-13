@@ -37,3 +37,4 @@ https://aistudio.google.com/app/prompts/new_chat?utm_source=gfd&utm_medium=refer
     ___Certificate And Training Websites---
     1. https://elearning.securityblue.team/home
     2. app.cybrary.it
+    3. https://learn.paloaltonetworks.com/learn/learning-plans/338/palo-alto-networks-certified-cybersecurity-apprentice/courses/2268/cloud-security-fundamentals
