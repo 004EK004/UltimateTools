@@ -25,8 +25,8 @@ https://aistudio.google.com/app/prompts/new_chat?utm_source=gfd&utm_medium=refer
 1. Odin Project: https://www.theodinproject.com/contributing
 2. https://startup.jobs/locations/london
 3. https://attack.mitre.org/matrices/enterprise/
-4. https://panel.innominds.co.uk/
-5. https://www.virtualinternships.com/
+
+
 6. https://startmeup.careers/faqs/internship-application-process/
 7. https://wellfound.com/jobs
 8. https://www.catchafire.org/onboarding/
@@ -36,6 +36,7 @@ https://aistudio.google.com/app/prompts/new_chat?utm_source=gfd&utm_medium=refer
 
     ___Certificate And Training Websites---
     1. https://elearning.securityblue.team/home
+    2. 
    
 
 
