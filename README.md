@@ -39,6 +39,9 @@ https://aistudio.google.com/app/prompts/new_chat?utm_source=gfd&utm_medium=refer
 2. https://www.sans.org/white-papers/?msc=securityresourceslp
 3. https://alison.com/
 4. Khan Academy
+5. Lets Defend
+6. IBM SkillsBuild
+7. app.cybrary.it
    
 
 
@@ -47,7 +50,7 @@ https://aistudio.google.com/app/prompts/new_chat?utm_source=gfd&utm_medium=refer
 Recruitment Companies
 1. Randstad
 2. WellFound
-    2. app.cybrary.it
+  
     3. https://learn.paloaltonetworks.com/learn/learning-plans/338/palo-alto-networks-certified-cybersecurity-apprentice/courses/2268/cloud-security-fundamentals
-    4. IBM SkillsBuild
+    
     5. https://open.hpi.de/courses/cleanit2021/certificates
