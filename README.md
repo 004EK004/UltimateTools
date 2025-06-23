@@ -37,6 +37,7 @@ https://aistudio.google.com/app/prompts/new_chat?utm_source=gfd&utm_medium=refer
  ___Certificate And Training Websites---
 1. https://elearning.securityblue.team/home
 2. https://www.sans.org/white-papers/?msc=securityresourceslp
+3. https://alison.com/
    
 
 
