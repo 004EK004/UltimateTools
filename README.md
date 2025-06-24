@@ -44,6 +44,8 @@ https://aistudio.google.com/app/prompts/new_chat?utm_source=gfd&utm_medium=refer
 7. app.cybrary.it
 8. https://www.cloudskillsboost.google/paths
 9. Palo Alto
+10. Qualys
+11. https://portswigger.net/web-security/learning-paths
    
 
 ___EDUCATION AND LEARNING___
