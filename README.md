@@ -42,10 +42,12 @@ https://aistudio.google.com/app/prompts/new_chat?utm_source=gfd&utm_medium=refer
 5. Lets Defend
 6. IBM SkillsBuild
 7. app.cybrary.it
+8. https://www.cloudskillsboost.google/paths
+9. Palo Alto
    
 
 ___EDUCATION AND LEARNING___
-1.Palo Alto Networks
+
 2.Open HPI
 3.https://www.openml.org/
 4.https://machinehack.com/bootcamps
