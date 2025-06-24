@@ -44,7 +44,6 @@ https://aistudio.google.com/app/prompts/new_chat?utm_source=gfd&utm_medium=refer
 7. app.cybrary.it
    
 
-
 ___EDUCATION AND LEARNING___
 1.Palo Alto Networks
 2.Open HPI
