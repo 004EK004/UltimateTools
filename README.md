@@ -45,11 +45,13 @@ https://aistudio.google.com/app/prompts/new_chat?utm_source=gfd&utm_medium=refer
    
 
 
+___EDUCATION AND LEARNING___
+1.Palo Alto Networks
+2.Open HPI
+3.https://www.openml.org/
+4.https://machinehack.com/bootcamps
+ 
 
-
-Recruitment Companies
-1. Randstad
-2. WellFound
   
     3. https://learn.paloaltonetworks.com/learn/learning-plans/338/palo-alto-networks-certified-cybersecurity-apprentice/courses/2268/cloud-security-fundamentals
     
