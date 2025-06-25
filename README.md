@@ -14,8 +14,11 @@ Tool 5: DeepSeek: https://chat.deepseek.com/
 Tool 6: Kaggle: https://www.kaggle.com/c/dogs-vs-cats/data
 
 Tool 7: https://console.groq.com/home
+
 Tool 8: https://uiverse.io/buttons?t=css
+
 Tool 9: Osint Tools Directory: https://osintframework.com/
+
 Tool 10: Tiny Eye: https://tineye.com/
 
 https://aistudio.google.com/app/prompts/new_chat?utm_source=gfd&utm_medium=referral&utm_campaign=home_garden&utm_content=
@@ -26,12 +29,12 @@ https://aistudio.google.com/app/prompts/new_chat?utm_source=gfd&utm_medium=refer
 2. https://startup.jobs/locations/london
 3. https://attack.mitre.org/matrices/enterprise/
 
-
-6. https://startmeup.careers/faqs/internship-application-process/
 7. https://wellfound.com/jobs
-8. https://www.catchafire.org/onboarding/
+
 9. https://app.unv.org/
+
 10. https://www.techsoup.org/?srsltid=AfmBOooOpjq0xxnbdqfaI0UutyZdtSpAE7io5h8TWiQCO36SfufUleLt
+
 11. https://www.kaggle.com/
 
  ___Certificate And Training Websites---
@@ -51,8 +54,11 @@ https://aistudio.google.com/app/prompts/new_chat?utm_source=gfd&utm_medium=refer
 ___EDUCATION AND LEARNING___
 
 2.Open HPI
+
 3.https://www.openml.org/
+
 4.https://machinehack.com/bootcamps
+
 5. https://www.aicrowd.com/
  
 
