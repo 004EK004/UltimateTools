@@ -57,6 +57,4 @@ ___EDUCATION AND LEARNING___
  
 
   
-    3. https://learn.paloaltonetworks.com/learn/learning-plans/338/palo-alto-networks-certified-cybersecurity-apprentice/courses/2268/cloud-security-fundamentals
     
-    5. https://open.hpi.de/courses/cleanit2021/certificates
