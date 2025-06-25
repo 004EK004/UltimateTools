@@ -53,6 +53,7 @@ ___EDUCATION AND LEARNING___
 2.Open HPI
 3.https://www.openml.org/
 4.https://machinehack.com/bootcamps
+5. https://www.aicrowd.com/
  
 
   
