@@ -1,65 +1,80 @@
-# UltimateTools
-A repository which houses links to awesome media, news, tools, softwares and more that is great for people interested in IT or students.
+🔍 Tool List
+🔎 Search Engines & OSINT
+GreyNoise – Internet background noise intelligence: https://www.greynoise.io/
 
-Tool 1: Search Engine: GreyNoise https://www.greynoise.io/
+TinyEye – Reverse image search: https://tineye.com/
 
-Tool 2: API: Together.AI  https://api.together.ai/playground/v2/chat/deepseek-ai/DeepSeek-V3
+OSINT Framework – Directory of OSINT tools: https://osintframework.com/
 
-Tool 3: Gitlab: https://gitlab.com/projects/new#create_from_template
+🧠 AI & APIs
+Together.AI API Playground – Chat with AI models: https://api.together.ai/playground/v2/chat/deepseek-ai/DeepSeek-V3
 
-Tool 4: Figma: https://www.figma.com/
+DeepSeek AI Chat – Advanced open-source language model: https://chat.deepseek.com/
 
-Tool 5: DeepSeek: https://chat.deepseek.com/
+Groq Console – Fast AI inference engine: https://console.groq.com/home
 
-Tool 6: Kaggle: https://www.kaggle.com/c/dogs-vs-cats/data
+Google AI Studio – Prompting interface for Google AI: https://aistudio.google.com/app/prompts/new_chat
 
-Tool 7: https://console.groq.com/home
+💻 Developer Tools
+GitLab – Create new projects from templates: https://gitlab.com/projects/new#create_from_template
 
-Tool 8: https://uiverse.io/buttons?t=css
+Figma – Collaborative interface design tool: https://www.figma.com/
 
-Tool 9: Osint Tools Directory: https://osintframework.com/
+UIVerse – Beautiful prebuilt CSS UI elements: https://uiverse.io/buttons?t=css
 
-Tool 10: Tiny Eye: https://tineye.com/
+📊 Data Science & ML
+Kaggle: Dogs vs. Cats Dataset – Practice ML classification: https://www.kaggle.com/c/dogs-vs-cats/data
 
-https://aistudio.google.com/app/prompts/new_chat?utm_source=gfd&utm_medium=referral&utm_campaign=home_garden&utm_content=
+Kaggle Main Page – Competitions, datasets, notebooks: https://www.kaggle.com/
+
+OpenML – Open platform for sharing datasets and ML experiments: https://www.openml.org/
+
+MachineHack Bootcamps – ML bootcamps & competitions: https://machinehack.com/bootcamps
+
+🌐 Experience & Job Boards
+The Odin Project – Learn web development: https://www.theodinproject.com/contributing
+
+Startup Jobs – London – Startup job board: https://startup.jobs/locations/london
+
+MITRE ATT&CK Matrix – Threat modeling & tactics: https://attack.mitre.org/matrices/enterprise/
+
+Wellfound (formerly AngelList Talent) – Startup jobs: https://wellfound.com/jobs
+
+UN Volunteers Platform – Volunteer opportunities: https://app.unv.org/
+
+TechSoup – Tech resources for nonprofits: https://www.techsoup.org/
+
+🏆 Certification & Training Platforms
+Security Blue Team – eLearning for cybersecurity: https://elearning.securityblue.team/home
+
+SANS White Papers – Research papers on security: https://www.sans.org/white-papers/
+
+Alison – Free online courses & certifications: https://alison.com/
+
+Khan Academy – Free world-class education: https://www.khanacademy.org/
+
+Let's Defend – Blue team cyber training: https://letsdefend.io/
+
+IBM SkillsBuild – Learn AI, cloud, cybersecurity: https://skillsbuild.org/
+
+Cybrary – Cybersecurity career development: https://app.cybrary.it/
+
+Google Cloud Skills Boost – Learn cloud & ML: https://www.cloudskillsboost.google/paths
+
+Palo Alto – Cybersecurity learning paths: https://www.paloaltonetworks.com/
+
+Qualys – Security and compliance tools: https://www.qualys.com/
+
+PortSwigger Web Security Academy – Learn web hacking: https://portswigger.net/web-security/learning-paths
+
+🎓 Education & Learning
+OpenHPI – Online courses from Hasso Plattner Institute: https://open.hpi.de/
+
+OpenML – Open machine learning platform: https://www.openml.org/
+AI Crowd https://www.aicrowd.com/
+Machine Hack: https://machinehack.com/bootcamps
 
 
------- Experience Websites--------
-1. Odin Project: https://www.theodinproject.com/contributing
-2. https://startup.jobs/locations/london
-3. https://attack.mitre.org/matrices/enterprise/
-
-7. https://wellfound.com/jobs
-
-9. https://app.unv.org/
-
-10. https://www.techsoup.org/?srsltid=AfmBOooOpjq0xxnbdqfaI0UutyZdtSpAE7io5h8TWiQCO36SfufUleLt
-
-11. https://www.kaggle.com/
-
- ___Certificate And Training Websites---
-1. https://elearning.securityblue.team/home
-2. https://www.sans.org/white-papers/?msc=securityresourceslp
-3. https://alison.com/
-4. Khan Academy
-5. Lets Defend
-6. IBM SkillsBuild
-7. app.cybrary.it
-8. https://www.cloudskillsboost.google/paths
-9. Palo Alto
-10. Qualys
-11. https://portswigger.net/web-security/learning-paths
-   
-
-___EDUCATION AND LEARNING___
-
-2.Open HPI
-
-3.https://www.openml.org/
-
-4.https://machinehack.com/bootcamps
-
-5. https://www.aicrowd.com/
  
 
   
